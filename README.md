@@ -18,11 +18,11 @@ I love crafting websites, practicing cybersecurity, and learning the latest in w
 
 ### 🌦️ Weather24
 A real-time weather web app that fetches live weather data using an open weather API and displays current conditions with a responsive UI. Built with HTML, CSS, and JavaScript.
-🔗 [Live Demo]((https://manu-char.github.io/Weather24/)) 
+🔗 [Live Demo](https://manu-char.github.io/Weather24/) 
 
 ### 🧑‍💻 Personal Portfolio Website
 A modern, responsive portfolio site to showcase my skills, projects, and contact information. Designed with a clean UI using HTML, CSS, and JavaScript.
-🔗 [Live Demo]([https://manu-char.github.io/MyPortfolio/])
+🔗 [Live Demo](https://manu-char.github.io/MyPortfolio/)
 
 ## 🤝 Let's Connect
 📬 [manmath.bharde01@gmail.com](mailto:manmath.bharde01@gmail.com)  
