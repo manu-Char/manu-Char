@@ -1,5 +1,5 @@
-# 👋 Hi there, I'm Manmath Bharde
-🎓 Diploma Student | 💻 Aspiring Web Developer | 🛡️ Cybersecurity Enthusiast
+# 👋 Hi , I'm Manmath Bharde
+🎓 Diploma Student | 💻 Aspiring Web Developer | 🛡️ Cybersecurity Enthusiast 
 
 I'm a passionate Computer Engineering student who enjoys building with code and exploring the tech world. 
 I love crafting websites, practicing cybersecurity, and learning the latest in web and software technologies.
@@ -24,7 +24,7 @@ A real-time weather web app that fetches live weather data using an open weather
 A modern, responsive portfolio site to showcase my skills, projects, and contact information. Designed with a clean UI using HTML, CSS, and JavaScript.
 🔗 [Live Demo](https://manu-char.github.io/MyPortfolio/)
 
-## 🤝 Let's Connect
+## 🤝Connects: 
 📬 [manmath.bharde01@gmail.com](mailto:manmath.bharde01@gmail.com)  
 🔗 [GitHub Profile](https://github.com/manu-Char)  
 🌐 [Linkedin Profile](https://www.linkedin.com/in/manmath-bharde-1a406b35a/)
