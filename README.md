@@ -27,7 +27,7 @@ A modern, responsive portfolio site to showcase my skills, projects, and contact
 ## 🤝Connects: 
 📬 [manmath.bharde01@gmail.com](mailto:manmath.bharde01@gmail.com)  
 🔗 [GitHub Profile](https://github.com/manu-Char)  
-🌐 [Linkedin Profile](https://www.linkedin.com/in/manmath-bharde-1a406b35a/)
+🌐 [Linkedin Profile](https://www.linkedin.com/in/manmath-bharde-1a406b35a/)  
 📱 +91 9673502989  
 📍 Latur, Maharashtra
 
