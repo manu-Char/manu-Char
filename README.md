@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manmath Bharde
 💻 Aspiring Web Developer | 🛡️Cybersecurity Enthusiast | 🤖 AI & Generative AI Enthusiast
 
-I'm a passionate Computer Engineering student who enjoys building with code and exploring the tech world. 
-I love crafting websites, practicing cybersecurity, and learning the latest in web and software technologies.
+🚀 Passionate Computer Engineering student driven by curiosity and creativity. I thrive on building sleek web experiences, exploring the art of cybersecurity, and staying ahead with the latest in software and tech innovation.
+
 
 ## 🚀 Interests
 - 🌐 Front-End Web Development 
