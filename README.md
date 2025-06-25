@@ -1,33 +1,35 @@
-# 👋 Hi, I'm Manmath Bharde
-💻 Aspiring Web Developer | 🛡️Cybersecurity Enthusiast | 🤖 AI & Generative AI Enthusiast
+# 👋 Hey there, I'm **Manmath Bharde**  
+💻 Web Developer in Progress | 🛡️ Cybersecurity Learner | 🤖 AI & Generative AI Explorer  
 
-🚀 Passionate Computer Engineering student driven by curiosity and creativity. I thrive on building sleek web experiences, exploring the art of cybersecurity, 
-and staying ahead with the latest in software and tech innovation.
+🎓 I'm a passionate **Computer Engineering student** with a drive to innovate, code, and solve real-world problems through technology. I enjoy crafting intuitive web experiences, diving into the world of cybersecurity, and experimenting with emerging tech like Generative AI.
 
-## 🚀 Interests
-- 🌐 Front-End Web Development 
-- 🔐 Basics of Networking and Cybersecurity
-- 🛠️ Software Engineering & Version Control
-- 📈 Learning Emerging Tech & Tools
+## 🚀 What I Love Building
+- 🌐 **Interactive Front-End Web Interfaces**
+- 🔐 **Secure & Efficient Solutions with Cybersecurity Principles**
+- 🛠️ **Software Engineering Projects with Git & Version Control**
+- 📊 **Creative Tech Experiments with New Tools and Trends**
 
 ## 🧰 Tech Stack
-- Programming Languages : HTML | CSS | JavaScript | Python | Java | C/C++ | SQL
-- Tools: VS Code, Turbo C/C++, MS Office, GitHub
 
-## 💼 Projects
+**Languages:**  
+HTML | CSS | JavaScript | Python | Java | C/C++ | SQL  
+**Tools & Platforms:**  
+VS Code | Turbo C/C++ | Git & GitHub | MS Office  
 
-### 🌦️ Weather24
-A real-time weather web app that fetches live weather data using an open weather API and displays current conditions with a responsive UI. Built with HTML, CSS, and JavaScript.
-🔗 [Live Demo](https://manu-char.github.io/Weather24/) 
+## 💼 Featured Projects
 
-### 🧑‍💻 Personal Portfolio Website
-A modern, responsive portfolio site to showcase my skills, projects, and contact information. Designed with a clean UI using HTML, CSS, and JavaScript.
+### 🌦️ Weather24 — *Live Weather Web App*  
+A responsive weather forecast application using the **OpenWeatherMap API** to display real-time weather data. Built with HTML, CSS, and vanilla JavaScript.  
+🔗 [Live Demo](https://manu-char.github.io/Weather24/)
+
+### 🧑‍💻 Personal Portfolio  
+A clean and modern portfolio website showcasing my projects, skills, and contact details. Designed for a smooth user experience.  
 🔗 [Live Demo](https://manu-char.github.io/MyPortfolio/)
 
-## 🤝Connects: 
-📬 [manmath.bharde01@gmail.com](mailto:manmath.bharde01@gmail.com)  
-🔗 [GitHub Profile](https://github.com/manu-Char)  
-🌐 [Linkedin Profile](https://www.linkedin.com/in/manmath-bharde-1a406b35a/)  
-📱 +91 9673502989  
-📍 Latur, Maharashtra
+## 🤝 Let's Connect
 
+📧 [manmath.bharde01@gmail.com](mailto:manmath.bharde01@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/manmath-bharde-1a406b35a/)  
+💻 [GitHub](https://github.com/manu-Char)  
+📱 +91 9673502989  
+📍 Latur, Maharashtra  
