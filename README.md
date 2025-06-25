@@ -1,5 +1,5 @@
-# 👋 Hi , I'm Manmath Bharde
-🎓 Diploma Student | 💻 Aspiring Web Developer | 🛡️ Cybersecurity Enthusiast 
+# 👋 Hi, I'm Manmath Bharde
+💻 Aspiring Web Developer | 🛡️Cybersecurity Enthusiast | 🤖 AI & Generative AI Enthusiast
 
 I'm a passionate Computer Engineering student who enjoys building with code and exploring the tech world. 
 I love crafting websites, practicing cybersecurity, and learning the latest in web and software technologies.
