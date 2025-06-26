@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Manmath Bharde**  
-💻 Web Developer in Progress | 🛡️ Cybersecurity Learner | 🤖 AI & Generative AI Explorer  
+💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI & Generative AI Enthusiast 
 
 🎓 I'm a passionate **Computer Engineering student** with a drive to innovate, code, and solve real-world problems through technology. I enjoy crafting intuitive web experiences, diving into the world of cybersecurity, and experimenting with emerging tech like Generative AI.
 
