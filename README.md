@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Manmath Bharde**  
 💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI & Generative AI Enthusiast 
 
-🎓 I'm a passionate **Computer Engineering student** with a drive to innovate, code, and solve real-world problems through technology. I enjoy crafting intuitive web experiences, diving into the world of cybersecurity, and experimenting with emerging tech like Generative AI.
+🎓 I'm a passionate **Computer Engineering student** with a drive to innovate, code, and solve real-world problems through technology. I enjoy crafting intuitive web experiences, exploring the world of cybersecurity, and experimenting with emerging technologies like Generative AI.
 
 ## 🚀 What I Love Building
 - 🌐 **Interactive Front-End Web Interfaces**
@@ -27,7 +27,7 @@ A clean and modern portfolio website showcasing my projects, skills, and contact
 🔗 [Live Demo](https://manu-char.github.io/MyPortfolio/)
 
 ### 🔐 Smart Password Generator Extension  
-A secure and lightweight Chrome extension that generates strong, customizable passwords and checks their strength in real-time. Includes clipboard copy and a local password history feature.  
+A secure and lightweight Chrome extension that generates strong, customizable passwords and checks their strength in real time. Includes clipboard copy and a local password history feature.  
 🔗 [GitHub Repository](https://github.com/manu-Char/smart-password-generator-extension)
 
 ## 🤝 Let's Connect
